@@ -180,6 +180,7 @@ An agent run is a chain of model calls, tool calls and handoffs, so finding out 
 - [CodeBurn](https://github.com/getagentseal/codeburn) - Local tracker of token use and cost across many AI coding tools and agents.
 - [Failproof AI](https://github.com/FailproofAI/failproofai) - Hooks into agent harnesses to record every run and block dangerous tool calls.
 - [LoongSuite Pilot](https://github.com/alibaba/loongsuite-pilot) - Collects OpenTelemetry events from Claude Code, Codex and other coding agents.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Self-hosted web dashboard for OpenClaw agents: token usage, sessions and weekly trends.
 - [Splitrail](https://github.com/Piebald-AI/splitrail) - Real-time token and cost tracker for Claude Code, Codex CLI and other agents.
 - [Token Meter](https://github.com/splunk/token-meter) - Splunk's local dashboard of usage and cost across coding agents.
 
