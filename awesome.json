@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Observability",
+  "repo": "ianwieds/awesome-agent-observability",
+  "tagline": "Tracing, monitoring, cost tracking and debugging for AI agents and LLM apps in production.",
+  "scope": "It is about watching agents or LLM apps run in production, not offline benchmarks or general logging with no LLM story.",
+  "accent": "F59E0B",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: a playhead sweeps a trace board as agent spans grow into a waterfall, a magnifying lens follows the newest span and settles on the one that fails red, and telemetry rides a wire to a monitor whose graph ticks."
 }
