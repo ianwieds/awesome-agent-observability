@@ -166,6 +166,7 @@ An agent run is a chain of model calls, tool calls and handoffs, so finding out 
 ## Coding agent monitors
 
 - [abtop](https://github.com/graykode/abtop) - Terminal view, like htop, of Claude Code and Codex sessions, tokens and context.
+- [AEGIS](https://github.com/antropos17/Aegis) - Windows-first desktop monitor for local AI-agent processes, file activity and TCP endpoints.
 - [Agent Console](https://github.com/LockedinLabs-AI/agent-console) - Local console of Claude Code and Codex sessions with tokens, cache use and cost.
 - [agentacct](https://github.com/mikehasa/agentacct) - Breaks coding agent tasks into steps with the tools, files and cost of each.
 - [agents-observe](https://github.com/simple10/agents-observe) - Live view of Claude Code sessions and the subagents they start.
