@@ -201,10 +201,10 @@ An agent run is a chain of model calls, tool calls and handoffs, so finding out 
 - [Awesome LLM Observability](https://github.com/ContextJet-ai/awesome-llm-observability) - LLM observability tools plus agent skills for working with them.
 - [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - Broad list of tools for building, serving and running LLM apps.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
